@@ -1,5 +1,5 @@
 
-![github-header-image (2)](https://github.com/Aditya-567/Aditya-567/assets/106132841/a09102e0-891f-4567-bc67-ceda6562cbb5)
+![aditya567](https://github.com/Aditya-567/Aditya-567/assets/106132841/e4da32bf-bcfa-4499-ad50-adb48b7205f2)
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Kumar!;" />
