@@ -43,8 +43,10 @@
 <hr/>
 <h2 align = "center"> 💡Badges💡 </h2>
 <br/>
+
 <div align ="center">
-    <img align="right" src="https://www.credly.com/badges/198d0516-db67-47b1-acdd-9899a7f9ba61/public_url" />
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="198d0516-db67-47b1-acdd-9899a7f9ba61" data-share-badge-host="https://www.credly.com"></div>
+    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 <br/>
