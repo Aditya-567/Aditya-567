@@ -40,7 +40,14 @@
 </td>
 </tr>
 </table>
+<hr/>
+<h2 align = "center"> 💡Badges💡 </h2>
+<br/>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="198d0516-db67-47b1-acdd-9899a7f9ba61" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
+<br/>
+<hr/>
 
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
