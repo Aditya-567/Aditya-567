@@ -45,7 +45,7 @@
 <br/>
 
 <div align ="center">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://images.credly.com/size/680x680/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" />
 </div>
 
 <br/>
