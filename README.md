@@ -43,11 +43,12 @@
 <hr/>
 <h2 align = "center"> 💡Badges💡 </h2>
 <br/>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="198d0516-db67-47b1-acdd-9899a7f9ba61" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div align ="center">
+    ![aws-academy-graduate-aws-academy-cloud-developing (2)](https://github.com/Aditya-567/Aditya-567/assets/106132841/defdff13-7021-4825-b07e-e3a69c2c2621)
+
+</div>
 
 <br/>
-<hr/>
 
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
