@@ -46,6 +46,8 @@
 
 <div align ="center">
     <img src="https://images.credly.com/size/680x680/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" width="120" height="120"/>
+    <img src="https://images.credly.com/size/680x680/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" width="120" height="120"/>
+    <img src="https://images.credly.com/size/680x680/images/119182cf-ca68-495a-a415-bff62dfdcc7e/image.png" width="120" height="120"/>
 </div>
 
 <br/>
