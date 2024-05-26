@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" />
   </a>
   </a>
-    <a href="" target="_blank">
+    <a href="https://aditya-567.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-rgb(230, 64, 95)?style=for-the-badge&logo=poerfolio&logoColor=white" target="_blank" />
   </a>
  
