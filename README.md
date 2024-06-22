@@ -15,7 +15,7 @@
 <td>
 <h2 style="color:blue"> <b>Current Status </b> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-567.Aditya-567" /></h2>
   
- - 💻 I’m currently working on --> Ticket-Trove, College-Space and Car-Polling Projects
+ - 💻 I’m currently working on --> PayFinCloud Projects
   
  - 📝 I’m currently learning --> Js, DSA, MERN 
 
