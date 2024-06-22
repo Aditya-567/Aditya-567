@@ -17,7 +17,7 @@
   
  - 💻 I’m currently working on --> PayFinCloud Projects
   
- - 📝 I’m currently learning --> Js, DSA, MERN 
+ - 📝 I’m currently learning --> Next.Js, DSA, MERN 
 
  - 🫡 Ask me about --> CSS, HTML, C++, Mysql... or anything [here](https://github.com/Aditya-567/Aditya-567/issues)
  
